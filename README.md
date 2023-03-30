@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iuzr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning MAUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
