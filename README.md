@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iuzr
-- 👀 I’m interested in mobile programming
-- 🌱 I’m currently learning SWIFT and MAUI
+- 👀 I’m interested in mobile and game programming 
+- 🌱 I’m currently learning RUST and MAUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
